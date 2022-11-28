@@ -1,5 +1,4 @@
 # Challenge-3-password-generator
-PASSWORD GENERATOR
 
 Description: Generates a random password based on what the user selects when prompted.
 

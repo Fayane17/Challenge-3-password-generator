@@ -9,5 +9,6 @@ The program then prompts the user to confirm if they would like to include speci
 When all parameters have been defined, the password will appear within the password box.
 
 Technologies Used: HTML, CSS, JavaScript
+Link to website:https://fayane17.github.io/Challenge-3-password-generator/
 
 <img src="Screenshot 2022-11-27 225329.png">

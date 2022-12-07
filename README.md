@@ -10,4 +10,6 @@ When all parameters have been defined, the password will appear within the passw
 
 Technologies Used: HTML, CSS, JavaScript
 
+Link to website:https://fayane17.github.io/Challenge-3-password-generator/
+
 <img src="Screenshot 2022-11-27 225329.png">
